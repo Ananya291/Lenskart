@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       {/* <h1>Hey Everyone</h1> */}
       <NewFile />
+      <h1>Hello</h1>
     </div>
   );
 }
